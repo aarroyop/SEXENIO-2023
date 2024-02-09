@@ -1,0 +1,4 @@
+﻿Herrera A, Arroyo Á, Jiménez A, Herrero Á (2023) Artificial Intelligence as Catalyst for the Tourism Sector: A Literature Review. JUCS - Journal of Universal Computer Science 29(12): 1439-1460. 
+https://doi.org/10.3897/jucs.101550
+
+Esta publicación no utiliza datos ni código. Es un trabajo de review

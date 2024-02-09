@@ -1,0 +1,11 @@
+@article{arroyo2018neural,
+  title={Neural models for imputation of missing ozone data in air-quality datasets},
+  author={Arroyo, {\'A}ngel and Herrero, {\'A}lvaro and Tricio, Ver{\'o}nica and Corchado, Emilio and Wo{\'z}niak, Micha{\l} and others},
+  journal={Complexity},
+  volume={2018},
+  year={2018},
+  publisher={Hindawi}
+}
+
+https://doi.org/10.1155/2018/7238015
+

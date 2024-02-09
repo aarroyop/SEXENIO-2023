@@ -1,0 +1,13 @@
+@article{yartu2022humidity,
+  title={Humidity forecasting in a potato plantation using time-series neural models},
+  author={Yartu, Mercedes and Cambra, Carlos and Navarro, Milagros and Rad, Carlos and Arroyo, {\'A}ngel and Herrero, {\'A}lvaro},
+  journal={Journal of Computational Science},
+  volume={59},
+  pages={101547},
+  year={2022},
+  publisher={Elsevier}
+}
+
+https://doi.org/10.1016/j.jocs.2021.101547
+
+No he subido el código ya que no lo he programado yo. Se puede verificar en la información taxonomóa CREDIT

@@ -1,0 +1,12 @@
+@article{basurto2020imputation,
+  title={Imputation of missing values affecting the software performance of component-based robots},
+  author={Basurto, Nu{\~n}o and Arroyo, {\'A}ngel and Cambra, Carlos and Herrero, {\'A}lvaro},
+  journal={Computers \& Electrical Engineering},
+  volume={87},
+  pages={106766},
+  year={2020},
+  publisher={Elsevier}
+}
+
+
+https://doi.org/10.1016/j.compeleceng.2020.106766

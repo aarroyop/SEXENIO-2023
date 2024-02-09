@@ -1,0 +1,11 @@
+@article{basurto2019hybrid,
+  title={A hybrid intelligent system to forecast solar energy production},
+  author={Basurto, Nu{\~n}o and Arroyo, {\'A}ngel and Vega, Rafael and Quinti{\'a}n, H{\'e}ctor and Calvo-Rolle, Jos{\'e} Luis and Herrero, {\'A}lvaro},
+  journal={Computers \& electrical engineering},
+  volume={78},
+  pages={373--387},
+  year={2019},
+  publisher={Elsevier}
+}
+
+https://doi.org/10.1016/j.compeleceng.2019.07.023

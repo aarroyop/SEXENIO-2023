@@ -1,0 +1,12 @@
+@article{arroyo2020self,
+  title={Self-Organizing Maps to Validate Anti-Pollution Policies},
+  author={Arroyo, {\'A}ngel and Cambra, Carlos and Herrero, {\'A}lvaro and Tricio, Ver{\'o}nica and Corchado, Emilio},
+  journal={Logic Journal of the IGPL},
+  volume={28},
+  number={4},
+  pages={596--614},
+  year={2020},
+  publisher={Oxford University Press}
+}
+
+https://doi.org/10.1093/jigpal/jzz049
